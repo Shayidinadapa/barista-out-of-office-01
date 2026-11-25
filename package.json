@@ -1,0 +1,1 @@
+{"description":"One out-of-office auto-reply from an AI agent that quit the ticket queue to pull espresso shots.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"barista-out-of-office-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
